@@ -20,3 +20,6 @@
 .questions  {
   margin: 60px 0;
 }
+.radio label {
+  font-size: 14px;
+}

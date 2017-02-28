@@ -26,7 +26,7 @@
   <fieldset>
 {{#each questions}}
 <div class="row">
- <div class="col-lg-12">
+ <div class="col-lg-8">
 <legend>{{text}}</legend>
 
 <div class="form-group survey-question">
@@ -35,35 +35,28 @@
     <label>
       <input name="question{{id}}" class="answer"
       value="1"  type="radio">
-      1
+       todellakin
     </label>
   </div>
   <div class="radio col-lg-2">
     <label>
       <input name="question{{id}}" class="answer"
       value="2"  type="radio">
-      2
+       kohtuullisesti
     </label>
   </div>
   <div class="radio col-lg-2">
     <label>
       <input name="question{{id}}" class="answer"
       value="3" checked="checked" type="radio">
-      3
+       vähän
     </label>
   </div>
   <div class="radio col-lg-2">
     <label>
       <input name="question{{id}}" class="answer"
       value="4"  type="radio">
-      4
-    </label>
-  </div>
-  <div class="radio col-lg-2">
-    <label>
-      <input name="question{{id}}" class="answer"
-      value="5"  type="radio">
-      5
+       tosi vähän
     </label>
   </div>
 </div>
@@ -74,13 +67,14 @@
 <div class="row">
  <div class="col-lg-12">
        <div class="jumbotron">
-         <input name='user' placeholder='user'><br>
-        <input name='password' type='password' placeholder='password'><br>
-               <p>Lähetä vastaukset
-         </p>
+         <p>Kirjoita nimi ja salasana, jos haluat luoda käyttäjätunnuksen</p>
+
+         <input name='user' placeholder='Nimi'><br>
+        <input name='password' type='password' placeholder='salasana'><br>-->
+               <p>Tän voisi siis tehdä tässä yhteydessä</p>
 
 
-       <p><button type='submit' class="btn btn-primary btn-lg">Lähetä</button></p>
+       <p><button type='submit' class="btn btn-primary btn-lg">Lähetä vastaukset</button></p>
      </div>
    </div>
  </div>

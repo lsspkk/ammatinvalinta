@@ -13,5 +13,18 @@
     "hbs": "~4.0.1",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.2"
-  }
+  },
+  "description": "Simple node js web application for a query of professional interest.",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsspkk/ammatinvalinta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsspkk/ammatinvalinta/issues"
+  },
+  "homepage": "https://github.com/lsspkk/ammatinvalinta#readme"
 }

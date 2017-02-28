@@ -2,12 +2,8 @@ var express = require('express');
 var router = express.Router();
 
 
-
-var questions = { questions: [
-  { id: "1", text: "Työskentelen mielelläni ulkona?" },
-  {id: "2", text: "Työskentelen mielelläni sisällä?"},
-  {id: "3", text: "Työskentelen mielelläni pakkasella?"},
-]};
+var fs = require('fs');
+var questions = JSON.parse(fs.readFileSync('kysymykset.json', 'utf8'));
 
 
 /* GET home page. */

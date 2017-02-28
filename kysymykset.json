@@ -1,0 +1,245 @@
+{ "questions": [
+  { "id": "1", "text": "Haluan työskennellä ihmisten kanssa" ,
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 8],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "2", "text": "Autan mielelläni muita",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 8],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+
+
+
+  {"id": "3", "text": "Pidän asioiden suunnittelusta ja rakentelusta",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 8, 6, 2, 2],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "4", "text": "Minua kiinnostaa yhteiskunnalliset asiat",
+
+    "scores_huma" : [ 12, 8, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 12, 8, 3, 1],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 8],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "5", "text": "Haluan työlläni edistää ihmisten henkistä ja fyysistä hyvinvointia",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 12, 8, 3, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "6", "text": "Pidän kirjoittamisesta",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 8],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 4, 4, 4, 4],
+    "scores_matk" : [ 4, 4, 4, 4]
+
+  },
+  {"id": "7", "text": "Olen kielellisesti lahjakas",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 6, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "8", "text": "Minulle on tärkeää toteuttaa itseäni taiteellisesti",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 4, 4, 4, 4],
+    "scores_matk" : [ 4, 4, 4, 4]
+
+  },
+  {"id": "9", "text": "Olen matemaattisesti lahjakas",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 12, 8, 3, 2],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "10", "text": "Pidän loogisten ongelmien ratkaisusta",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 8, 6, 2, 1],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "11", "text": "Tykkään tehdä asioita käytännössä",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "12", "text": "En pidä paperitöistä",
+
+    "scores_huma" : [ 1, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "13", "text": "Tykkään olla lasten kanssa",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 8],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "14", "text": "Tykkään työskennellä pitkien projektien kanssa",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 6, 4, 4, 3],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "15", "text": "Olen kiinnostunut myynnistä, markkinoinnista ja mainonnasta",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "16", "text": "Minua kiinnostaa luontoon ja ympäristöön liittyvät asiat",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 12, 8, 2, 1],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "17", "text": "Olen kiinnostunut teknisistä asioista",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 12, 8, 2, 1],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "18", "text": "Pidän tärkeänä kehon hyvinvointia",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "19", "text": "Tykkään esiintyä yleisölle",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 4, 4, 4, 4],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  },
+  {"id": "20", "text": "Työskentelen mieluiten yksin",
+
+    "scores_huma" : [ 4, 3, 3, 1],
+    "scores_kult" : [ 8, 3, 3, 1],
+    "scores_yhte" : [ 4, 4, 4, 4],
+    "scores_luon" : [ 4, 4, 5, 6],
+    "scores_tekn" : [ 6, 4, 4, 2],
+    "scores_ympa" : [ 4, 4, 4, 6],
+    "scores_sosi" : [ 8, 5, 2, 1],
+    "scores_matk" : [ 8, 3, 3, 3]
+
+  }
+]}
