@@ -34,8 +34,16 @@ npm install
 
 aja web-palvelin
 DEBUG=myapp:* npm start
-
 ota yhtyettä palvelimen porttiin 1337
+
+
+## tuotanto - serveri päälle
+Lue ohjeet täältä https://github.com/Unitech/pm2/blob/master/README.md
+npm install pm2 -g
+npm install pm2@latest -g; pm2 update
+pm2 startup systemd
+pm2 start bin/www -n "ammatinvalinta"
+
 
 ## konffaus
 - bin/web -tiedostoon palvelimen porttimuutokset yms.
